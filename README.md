@@ -1,2 +1,2 @@
 # Hello-World
-Hello World in many programming languages..!
+Hello World in different programming languages..!
